@@ -1,0 +1,3 @@
+[submodule "gem5-SALAM"]
+	path = gem5-SALAM
+	url = https://github.com/TeCSAR-UNCC/gem5-SALAM
